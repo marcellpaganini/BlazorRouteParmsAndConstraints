@@ -11,7 +11,11 @@
 * C#  
   * Create Blazor Server project  
   ```bash
-  dotnet new blazorserver -n Main
+  dotnet new blazorserver -n RouteParameters
+  ```  
+  * Create Blazor Component  
+  ```bash
+  dotnet new razorcomponent -n RouteParameter
   ```  
     
 ### Programming Topics practiced to get things done  
