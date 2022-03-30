@@ -16,4 +16,4 @@
     
 ### Programming Topics practiced to get things done  
 #### 1- Route parameters and constraints (Blazor)  
-Parameters added to a component in order to populate the route value with the same name as the parameter and constraints to make sure the parameter value will be of a specific type.   
+Parameters added to a component in order to populate the route value with the same name as the parameter and constraints to make sure the parameter value will be of a specific type.    
